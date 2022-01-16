@@ -1,0 +1,15 @@
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/obj/Debug/net5.0/pa1.csproj.AssemblyReference.cache
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/obj/Debug/net5.0/pa1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/obj/Debug/net5.0/pa1.AssemblyInfoInputs.cache
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/obj/Debug/net5.0/pa1.AssemblyInfo.cs
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/obj/Debug/net5.0/pa1.csproj.CoreCompileInputs.cache
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/bin/Debug/net5.0/pa1.deps.json
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/bin/Debug/net5.0/pa1.runtimeconfig.json
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/bin/Debug/net5.0/pa1.runtimeconfig.dev.json
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/bin/Debug/net5.0/pa1.dll
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/bin/Debug/net5.0/ref/pa1.dll
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/bin/Debug/net5.0/pa1.pdb
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/obj/Debug/net5.0/pa1.dll
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/obj/Debug/net5.0/ref/pa1.dll
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/obj/Debug/net5.0/pa1.pdb
+/Users/matthewkeller/BME121/Assignments/Week4/pa1/obj/Debug/net5.0/pa1.genruntimeconfig.cache
